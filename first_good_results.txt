@@ -1,0 +1,206 @@
+NOTE: Better results can be obtained using execute([784,40,10],1,100,60000)
+#######################
+execute([784,30,10],1,100,60000)
+#######################
+Train network
+Epoch number:  0 / 100
+8838 / 10000
+Epoch number:  1 / 100
+8926 / 10000
+Epoch number:  2 / 100
+9212 / 10000
+Epoch number:  3 / 100
+9239 / 10000
+Epoch number:  4 / 100
+9281 / 10000
+Epoch number:  5 / 100
+9154 / 10000
+Epoch number:  6 / 100
+9335 / 10000
+Epoch number:  7 / 100
+9320 / 10000
+Epoch number:  8 / 100
+9331 / 10000
+Epoch number:  9 / 100
+9307 / 10000
+Epoch number:  10 / 100
+9322 / 10000
+Epoch number:  11 / 100
+9370 / 10000
+Epoch number:  12 / 100
+9361 / 10000
+Epoch number:  13 / 100
+9405 / 10000
+Epoch number:  14 / 100
+9406 / 10000
+Epoch number:  15 / 100
+9355 / 10000
+Epoch number:  16 / 100
+9418 / 10000
+Epoch number:  17 / 100
+9377 / 10000
+Epoch number:  18 / 100
+9405 / 10000
+Epoch number:  19 / 100
+9382 / 10000
+Epoch number:  20 / 100
+9395 / 10000
+Epoch number:  21 / 100
+9451 / 10000
+Epoch number:  22 / 100
+9429 / 10000
+Epoch number:  23 / 100
+9369 / 10000
+Epoch number:  24 / 100
+9376 / 10000
+Epoch number:  25 / 100
+9375 / 10000
+Epoch number:  26 / 100
+9403 / 10000
+Epoch number:  27 / 100
+9427 / 10000
+Epoch number:  28 / 100
+9440 / 10000
+Epoch number:  29 / 100
+9454 / 10000
+Epoch number:  30 / 100
+9433 / 10000
+Epoch number:  31 / 100
+9420 / 10000
+Epoch number:  32 / 100
+9419 / 10000
+Epoch number:  33 / 100
+9381 / 10000
+Epoch number:  34 / 100
+9457 / 10000
+Epoch number:  35 / 100
+9399 / 10000
+Epoch number:  36 / 100
+9417 / 10000
+Epoch number:  37 / 100
+9426 / 10000
+Epoch number:  38 / 100
+9456 / 10000
+Epoch number:  39 / 100
+9445 / 10000
+Epoch number:  40 / 100
+9448 / 10000
+Epoch number:  41 / 100
+9418 / 10000
+Epoch number:  42 / 100
+9417 / 10000
+Epoch number:  43 / 100
+9425 / 10000
+Epoch number:  44 / 100
+9436 / 10000
+Epoch number:  45 / 100
+9447 / 10000
+Epoch number:  46 / 100
+9480 / 10000
+Epoch number:  47 / 100
+9399 / 10000
+Epoch number:  48 / 100
+9438 / 10000
+Epoch number:  49 / 100
+9419 / 10000
+Epoch number:  50 / 100
+9422 / 10000
+Epoch number:  51 / 100
+9371 / 10000
+Epoch number:  52 / 100
+9419 / 10000
+Epoch number:  53 / 100
+9446 / 10000
+Epoch number:  54 / 100
+9453 / 10000
+Epoch number:  55 / 100
+9426 / 10000
+Epoch number:  56 / 100
+9463 / 10000
+Epoch number:  57 / 100
+9448 / 10000
+Epoch number:  58 / 100
+9461 / 10000
+Epoch number:  59 / 100
+9406 / 10000
+Epoch number:  60 / 100
+9463 / 10000
+Epoch number:  61 / 100
+9499 / 10000
+Epoch number:  62 / 100
+9471 / 10000
+Epoch number:  63 / 100
+9460 / 10000
+Epoch number:  64 / 100
+9452 / 10000
+Epoch number:  65 / 100
+9423 / 10000
+Epoch number:  66 / 100
+9418 / 10000
+Epoch number:  67 / 100
+9460 / 10000
+Epoch number:  68 / 100
+9400 / 10000
+Epoch number:  69 / 100
+9453 / 10000
+Epoch number:  70 / 100
+9471 / 10000
+Epoch number:  71 / 100
+9473 / 10000
+Epoch number:  72 / 100
+9415 / 10000
+Epoch number:  73 / 100
+9486 / 10000
+Epoch number:  74 / 100
+9463 / 10000
+Epoch number:  75 / 100
+9447 / 10000
+Epoch number:  76 / 100
+9486 / 10000
+Epoch number:  77 / 100
+9459 / 10000
+Epoch number:  78 / 100
+9452 / 10000
+Epoch number:  79 / 100
+9447 / 10000
+Epoch number:  80 / 100
+9481 / 10000
+Epoch number:  81 / 100
+9448 / 10000
+Epoch number:  82 / 100
+9417 / 10000
+Epoch number:  83 / 100
+9462 / 10000
+Epoch number:  84 / 100
+9448 / 10000
+Epoch number:  85 / 100
+9454 / 10000
+Epoch number:  86 / 100
+9448 / 10000
+Epoch number:  87 / 100
+9486 / 10000
+Epoch number:  88 / 100
+9494 / 10000
+Epoch number:  89 / 100
+9493 / 10000
+Epoch number:  90 / 100
+9503 / 10000
+Epoch number:  91 / 100
+9486 / 10000
+Epoch number:  92 / 100
+9477 / 10000
+Epoch number:  93 / 100
+9472 / 10000
+Epoch number:  94 / 100
+9478 / 10000
+Epoch number:  95 / 100
+9520 / 10000
+Epoch number:  96 / 100
+9506 / 10000
+Epoch number:  97 / 100
+9440 / 10000
+Epoch number:  98 / 100
+9485 / 10000
+Epoch number:  99 / 100
+9436 / 10000
+#########################
